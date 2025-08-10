@@ -20,8 +20,8 @@ I like shipping small, useful projects with clear docs and clean UIs.
 
 - 🔭 **Now**: classroom tools powered by OpenAI + Supabase  
 - 🧪 **Research**: EPON/optical networks, explainable ML, PDF tooling  
-- 🎓 **Teaching**: Web Design, E-Business, MIS, Computational Thinking  
-- 💡 **Interests**: RAG, lightweight agents, edu-games, workflows
+- 🎓 **Teaching**: System Analysis and Design, E-Business, MIS, Computational Thinking, Computer Networks, Business Process Reengineering  
+- 💡 **Interests**: Networks, AI, RAG, lightweight agents, edu-games, workflows
 
 ---
 
