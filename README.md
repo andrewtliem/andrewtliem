@@ -63,7 +63,7 @@ I like shipping small, useful projects with clear docs and clean UIs.
 If you’re building in **AI × Education** or **networks**, reach out!
 
 <p align="center">
-  <a href="https://github.com/andrewtliem"><img src="https://img.shields.io/github/followers/YOURUSERNAME?label=Follow&style=social" /></a>
+  <a href="https://github.com/andrewtliem"><img src="https://img.shields.io/github/followers/andrewtliem?label=Follow&style=social" /></a>
 </p>
 
 ---
