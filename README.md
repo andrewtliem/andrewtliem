@@ -8,8 +8,8 @@
 <p align="center">
   <a href="https://atlverse.xyz"><img src="https://img.shields.io/badge/Website-2f60d7?style=flat&logo=google-chrome&logoColor=white" /></a>
   <a href="mailto:andrew.heriyana@unklab.ac.id"><img src="https://img.shields.io/badge/Email-FF5722?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="[https://www.linkedin.com/in/your-handle](https://www.linkedin.com/in/andrew-tanny-liem-4a463736/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="[https://twitter.com/yourhandle"](https://x.com/andrewliem)><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/andrew-tanny-liem-4a463736/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/andrewliem"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
 </p>
 
 ---
