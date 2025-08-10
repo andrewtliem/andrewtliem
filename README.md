@@ -53,8 +53,8 @@ I like shipping small, useful projects with clear docs and clean UIs.
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=andrewtliem&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewtliem&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 ---
@@ -63,7 +63,7 @@ I like shipping small, useful projects with clear docs and clean UIs.
 If you’re building in **AI × Education** or **networks**, reach out!
 
 <p align="center">
-  <a href="https://github.com/YOURUSERNAME"><img src="https://img.shields.io/github/followers/YOURUSERNAME?label=Follow&style=social" /></a>
+  <a href="https://github.com/andrewtliem"><img src="https://img.shields.io/github/followers/YOURUSERNAME?label=Follow&style=social" /></a>
 </p>
 
 ---
